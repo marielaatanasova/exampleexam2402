@@ -1,0 +1,6 @@
+E:\NP_ITMariela\exam2402\17uprajnenie\bin\Debug\17uprajnenie.exe.config
+E:\NP_ITMariela\exam2402\17uprajnenie\bin\Debug\17uprajnenie.exe
+E:\NP_ITMariela\exam2402\17uprajnenie\bin\Debug\17uprajnenie.pdb
+E:\NP_ITMariela\exam2402\17uprajnenie\obj\Debug\17uprajnenie4.csprojResolveAssemblyReference.cache
+E:\NP_ITMariela\exam2402\17uprajnenie\obj\Debug\17uprajnenie.exe
+E:\NP_ITMariela\exam2402\17uprajnenie\obj\Debug\17uprajnenie.pdb

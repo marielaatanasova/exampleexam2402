@@ -1,0 +1,5 @@
+E:\NP_ITMariela\exam2402\exam2402\bin\Debug\exam2402.exe.config
+E:\NP_ITMariela\exam2402\exam2402\bin\Debug\exam2402.exe
+E:\NP_ITMariela\exam2402\exam2402\bin\Debug\exam2402.pdb
+E:\NP_ITMariela\exam2402\exam2402\obj\Debug\exam2402.exe
+E:\NP_ITMariela\exam2402\exam2402\obj\Debug\exam2402.pdb
